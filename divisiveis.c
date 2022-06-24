@@ -3,7 +3,7 @@
 
 void main() {
 	
-	int i, somaImpares = 0;
+	int i;
 	
 	for (i = 15; i <= 250; i++) {
 		
