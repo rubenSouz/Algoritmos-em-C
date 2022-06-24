@@ -14,6 +14,7 @@ void main() {
 		if (x > 5) {
 			contMaiorCinco++;
 		}
+		
 		printf("Deseja inserir outro numero (s/n): ");
 		fflush(stdin);
 		gets(escolha);
