@@ -10,7 +10,7 @@ void main() {
 	printf("Codigo/Produtos: \n1 p/ Coca 2L - 9 R$");
 	printf("\n2 p/ Farinha 1Kg - 3,99 R$");
 	printf("\n3 p/ Feijao 1Kg - 7 R$");
-	printf("\n4 p/ Açucar 1Kg - 3,10 R$");
+	printf("\n4 p/ AÃ§ucar 1Kg - 3,10 R$");
 	printf("\n5 p/ Frango 1Kg - 25,99 R$");
 	
 	do {
@@ -63,7 +63,7 @@ void main() {
 		printf("\nFeijao 1Kg - 7 R$ Qntd: %dx", feijao);
 	}
 	if (acucar >= 1) {
-		printf("\nAçucar 1Kg - 3,10 R$ Qntd: %dx", acucar);
+		printf("\nAÃ§ucar 1Kg - 3,10 R$ Qntd: %dx", acucar);
 	}
 	if (frango >= 1) {
 		printf("\nFrango 1Kg - 25,99 R$ Qntd: %dx", coca);
